@@ -536,3 +536,135 @@
 2016-12-18 09:01:48,044 INFO  [main] Browser started
 2016-12-18 09:01:52,363 INFO  [main] Login page opened
 2016-12-18 09:01:53,388 INFO  [main] Login performed
+2016-12-29 03:08:28,013 INFO  [main] Browser started
+2016-12-29 03:08:34,362 INFO  [main] Login page opened
+2016-12-29 03:08:35,553 INFO  [main] Login performed
+2016-12-29 03:09:01,863 INFO  [main] Browser started
+2016-12-29 03:09:07,290 INFO  [main] Login page opened
+2016-12-29 03:09:08,202 INFO  [main] Login performed
+2016-12-29 03:32:02,054 INFO  [main] Browser started
+2016-12-29 03:32:06,745 INFO  [main] Login page opened
+2016-12-29 03:32:07,690 INFO  [main] Login performed
+2016-12-29 03:32:09,560 INFO  [main] Plus added
+2016-12-29 03:32:16,982 INFO  [main] Browser started
+2016-12-29 03:32:21,514 INFO  [main] Login page opened
+2016-12-29 03:32:23,200 INFO  [main] Login performed
+2016-12-29 03:57:16,076 INFO  [main] Browser started
+2016-12-29 03:57:24,440 INFO  [main] Login page opened
+2016-12-29 03:57:25,449 INFO  [main] Login performed
+2016-12-29 03:57:25,634 INFO  [main] Plus added
+2016-12-29 03:57:25,639 INFO  [main] Show added to 'Watching' 
+2016-12-29 04:09:00,628 INFO  [main] Browser started
+2016-12-29 04:09:05,660 INFO  [main] Login page opened
+2016-12-29 04:09:06,495 INFO  [main] Login performed
+2016-12-29 04:09:06,627 INFO  [main] Plus added
+2016-12-29 04:09:06,640 INFO  [main] Show added to 'Watching' 
+2016-12-29 04:13:45,819 INFO  [main] Browser started
+2016-12-29 04:13:51,964 INFO  [main] Login page opened
+2016-12-29 04:13:53,073 INFO  [main] Login performed
+2016-12-29 04:13:53,430 INFO  [main] Plus added
+2016-12-29 04:14:01,983 INFO  [main] Show page opened
+2016-12-29 04:21:25,368 INFO  [main] Browser started
+2016-12-29 04:21:30,514 INFO  [main] Login page opened
+2016-12-29 04:21:32,434 INFO  [main] Login performed
+2016-12-29 04:21:32,762 INFO  [main] Plus added
+2016-12-29 04:21:40,452 INFO  [main] Show page opened
+2016-12-29 04:35:07,163 INFO  [main] Browser started
+2016-12-29 04:35:14,939 INFO  [main] Login page opened
+2016-12-29 04:35:19,307 INFO  [main] Login performed
+2016-12-29 04:51:02,468 INFO  [main] Browser started
+2016-12-29 04:51:07,812 INFO  [main] Login page opened
+2016-12-29 04:51:10,860 INFO  [main] Login performed
+2016-12-29 04:51:19,148 INFO  [main] Browser started
+2016-12-29 04:51:24,368 INFO  [main] Login page opened
+2016-12-29 04:51:25,245 INFO  [main] Login performed
+2016-12-29 04:51:28,379 INFO  [main] Login page opened
+2016-12-29 04:51:28,642 INFO  [main] Sort changed
+2016-12-29 04:53:35,974 INFO  [main] Browser started
+2016-12-29 04:53:40,752 INFO  [main] Login page opened
+2016-12-29 04:53:41,613 INFO  [main] Login performed
+2016-12-29 04:53:49,520 INFO  [main] Browser started
+2016-12-29 04:53:54,572 INFO  [main] Login page opened
+2016-12-29 04:53:55,591 INFO  [main] Login performed
+2016-12-29 04:53:59,000 INFO  [main] Login page opened
+2016-12-29 04:53:59,246 INFO  [main] Sort changed
+2016-12-29 04:55:36,187 INFO  [main] Browser started
+2016-12-29 04:55:40,967 INFO  [main] Login page opened
+2016-12-29 04:55:41,867 INFO  [main] Login performed
+2016-12-29 04:55:45,305 INFO  [main] Login page opened
+2016-12-29 04:55:45,647 INFO  [main] Sort changed
+2016-12-29 05:02:30,568 INFO  [main] Browser started
+2016-12-29 05:02:35,604 INFO  [main] Login page opened
+2016-12-29 05:02:36,502 INFO  [main] Login performed
+2016-12-29 05:02:39,729 INFO  [main] Login page opened
+2016-12-29 05:02:40,011 INFO  [main] Sort changed
+2016-12-29 05:09:32,705 INFO  [main] Browser started
+2016-12-29 05:09:38,216 INFO  [main] Login page opened
+2016-12-29 05:09:38,486 INFO  [main] Sort changed
+2016-12-29 05:25:40,361 INFO  [main] Browser started
+2016-12-29 05:25:46,676 INFO  [main] Login page opened
+2016-12-29 05:25:48,003 INFO  [main] Login performed
+2016-12-29 05:25:55,276 INFO  [main] Browser started
+2016-12-29 05:26:00,183 INFO  [main] Login page opened
+2016-12-29 05:26:01,020 INFO  [main] Login performed
+2016-12-29 05:26:04,724 INFO  [main] Login page opened
+2016-12-29 05:26:06,421 INFO  [main] My groups opened
+2016-12-29 05:27:02,636 INFO  [main] Browser started
+2016-12-29 05:27:08,229 INFO  [main] Login page opened
+2016-12-29 05:27:08,503 INFO  [main] Sort changed
+2016-12-29 05:28:39,899 INFO  [main] Browser started
+2016-12-29 05:28:45,569 INFO  [main] Login page opened
+2016-12-29 05:28:46,673 INFO  [main] Login performed
+2016-12-29 05:28:49,912 INFO  [main] Login page opened
+2016-12-29 05:28:51,299 INFO  [main] My groups opened
+2016-12-29 05:28:58,710 INFO  [main] Browser started
+2016-12-29 05:29:03,640 INFO  [main] Login page opened
+2016-12-29 05:29:03,913 INFO  [main] Sort changed
+2016-12-29 05:30:13,939 INFO  [main] Browser started
+2016-12-29 05:30:18,996 INFO  [main] Login page opened
+2016-12-29 05:30:19,733 INFO  [main] Login performed
+2016-12-29 05:30:23,540 INFO  [main] Login page opened
+2016-12-29 05:30:24,818 INFO  [main] My groups opened
+2016-12-29 05:40:51,145 INFO  [main] Browser started
+2016-12-29 05:40:56,459 INFO  [main] Login page opened
+2016-12-29 05:40:57,569 INFO  [main] Login performed
+2016-12-29 05:41:00,863 INFO  [main] Login page opened
+2016-12-29 05:41:02,416 INFO  [main] My groups opened
+2016-12-29 05:42:14,716 INFO  [main] Browser started
+2016-12-29 05:42:19,671 INFO  [main] Login page opened
+2016-12-29 05:42:19,817 INFO  [main] Top comments opened
+2016-12-29 05:56:45,399 INFO  [main] Browser started
+2016-12-29 05:56:50,211 INFO  [main] Login page opened
+2016-12-29 06:06:07,222 INFO  [main] Browser started
+2016-12-29 06:06:12,842 INFO  [main] Login page opened
+2016-12-29 06:07:38,535 INFO  [main] Browser started
+2016-12-29 06:07:44,335 INFO  [main] Login page opened
+2016-12-29 06:14:00,503 INFO  [main] Browser started
+2016-12-29 06:14:05,376 INFO  [main] Login page opened
+2016-12-29 06:14:07,089 INFO  [main] Top post opened
+2016-12-29 06:17:00,724 INFO  [main] Browser started
+2016-12-29 06:17:06,343 INFO  [main] Login page opened
+2016-12-29 06:17:08,212 INFO  [main] Top post opened
+2016-12-29 06:20:50,846 INFO  [main] Browser started
+2016-12-29 06:20:55,676 INFO  [main] Login page opened
+2016-12-29 06:20:57,379 INFO  [main] Top post opened
+2016-12-29 06:24:22,384 INFO  [main] Browser started
+2016-12-29 06:24:27,747 INFO  [main] Login page opened
+2016-12-29 06:24:27,946 INFO  [main] Tags opened
+2016-12-29 06:26:39,393 INFO  [main] Browser started
+2016-12-29 06:26:44,976 INFO  [main] Login page opened
+2016-12-29 06:26:46,024 INFO  [main] Login performed
+2016-12-29 06:26:53,803 INFO  [main] Browser started
+2016-12-29 06:26:59,176 INFO  [main] Login page opened
+2016-12-29 06:26:59,445 INFO  [main] Tags opened
+2016-12-29 06:27:08,317 INFO  [main] Browser started
+2016-12-29 06:27:16,304 INFO  [main] Login page opened
+2016-12-29 06:27:17,677 INFO  [main] Login performed
+2016-12-29 06:27:21,769 INFO  [main] Login page opened
+2016-12-29 06:27:23,232 INFO  [main] My groups opened
+2016-12-29 06:27:30,068 INFO  [main] Browser started
+2016-12-29 06:27:35,551 INFO  [main] Login page opened
+2016-12-29 06:27:35,703 INFO  [main] Top comments opened
+2016-12-29 06:27:44,647 INFO  [main] Browser started
+2016-12-29 06:27:49,950 INFO  [main] Login page opened
+2016-12-29 06:27:50,200 INFO  [main] Sort changed

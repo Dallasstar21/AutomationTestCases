@@ -9,7 +9,7 @@ import steps.Steps;
  */
 public class TestAutomation {
     private Steps steps;
-    private final String USERNAME = "Dallasstar21";
+    private final String USERNAME = "dallasstar21";
     private final String PASSWORD = "testpass";
 
     @BeforeMethod(description = "Init browser")
@@ -24,6 +24,31 @@ public class TestAutomation {
     {
         steps.loginPikabu(USERNAME, PASSWORD);
         Assert.assertTrue(steps.isLoggedIn(USERNAME));
+    }
+    @Test(description = "Sort by time")
+    public void oneCanSortByTime()
+    {
+        steps.sortByTime();
+      Assert.assertTrue(steps.isSortChanged());
+   }
+    @Test(description = "Open my groups")
+    public void oneCanOpenGroups()
+    {
+        steps.loginPikabu(USERNAME, PASSWORD);
+       steps.openGroups();
+       Assert.assertTrue(steps.isGroupsOpened());
+    }
+    @Test(description = "Top 50 comments")
+    public void oneCanOpenTopComments()
+    {
+        steps.openTopComments();
+        Assert.assertTrue(steps.isCommentsOpened());
+    }
+    @Test(description = "Top post with cats")
+    public void oneCanOpenBestPosts()
+    {
+        steps.openTopCats();
+        Assert.assertTrue(steps.isCatsChecked());
     }
 
     @AfterMethod(description = "Stop Browser")
